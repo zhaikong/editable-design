@@ -8,3 +8,4 @@ out/
 *.tar.gz
 *.zip
 .venv/
+config.bat
